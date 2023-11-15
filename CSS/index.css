@@ -1,0 +1,99 @@
+body
+{
+    background-color: rgb(233, 233, 225);
+}
+#box
+{
+    width: 1200px;
+    height: auto;
+    margin:auto;
+}
+#header
+{
+width: 1200px;
+height: 80px;
+background-color: white;
+text-shadow: 3px 5px 8px red;
+font-size: 50px;
+text-align: center;
+color:blue;
+font-family:arial black;
+}
+#menu
+{
+width: 1200px;
+height: 60px;
+background-color:rgb(18, 84, 206);
+}
+ul{
+list-style-type:none;
+}
+ul li{
+    display: inline-block;
+    margin-top: 20px;
+}
+ul li a{
+    text-decoration: none;
+    font-size:large;
+    padding:30px 60px;
+    color:white;
+    font-weight: bold;
+}
+ul li a:hover
+{
+    background-color: white;
+    color:darkblue;
+}
+
+#slider
+{
+width: 1200px;
+height: 500px;
+}
+#content
+{
+width: 1200px;
+height: 500px;
+}
+#left
+{
+width: 300px;
+height: 500px;
+background-color: rgb(171, 175, 161);
+float: left;
+}
+table tr th:hover
+{
+    background-color: rgb(113, 210, 210);
+}
+#center
+{
+width: 600px;
+height: 500px;
+background-color: rgb(226, 243, 243);
+float: left;
+}
+#right
+{
+width: 300px;
+height: 500px;
+background-color: rgb(213, 190, 224);
+float: left;
+font-size: 25px;
+color:red;
+}
+p{
+    text-align: center;
+}
+#footer
+{
+width: 1200px;
+height: 100px;
+background-color:black;
+color:white;
+float: left;
+font-size: 30px;
+text-align: center;
+padding-top: 30px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

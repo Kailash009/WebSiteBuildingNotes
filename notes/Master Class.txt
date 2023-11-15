@@ -1,0 +1,280 @@
+SGML:-
+-------------
+>> Standard Generalized Markup Language.
+>> SGML tags doesn't support to all the browser.
+For Ex - Microsft Edge,Chorme,IE etc...
+-------------------------------------------------------
+Website:-  A website is a collection of webpages.
+Homepage:- First page of a website.
+WebPortal:- It is collection of website.
+>> it contains many website links.
+10 sites
+amazon
+flipkart
+zomato
+-----------------------------------------------
+1. Static Website.
+>> whose contents are fixed.
+>> it is used for read-only purpose.
+2. Dynamic Website.
+>> whose contents changes dynamically. [day by day].
+>> where you can perform some operations,insert,update,delete etc.
+amazon.in, flipkart.com etc.
+------------------------------------------------------------------------
+HTML:-
+------------
+>> Tim Berner's Lee.
+>> It is used to describe the content of a webpage.
+>> Html is not a case sensitive.
+>> Html is all about tags and attributes.
+----------------------------------------------------------
+Tags in HTML:-
+-----------------------
+There are two types of tag in HTML:-
+1. Paired/Container Tag. -> which is open and close.
+<body></body>
+<p></p> 
+<div></div> etc.
+2. Unpaired/Empty Tag. -> which open and close itself.
+For Example:- <img/> 
+<br/> -> TO change the line.
+<hr/> -> Horizontal Ruler.
+----------------------------------------------------------------
+To develop any website we need to follow some structure:-
+Some of the basic building block of every website which are follows:-
+Header,Menu,Slider,Body[Left,Middle,Right],Image Slider,Footer.
+--------------------------------------------------------------------------
+For dividing the content of a webpage we have following techniques which are as follows:-
+1. With the help of table you can divide the content of your webpage.
+2. With the help of Frame you can divide the content of your webpage.
+3. With the help of CSS you can divide the content of your webpage.
+------------------------------------------------------------------------------
+Structure of HTML:-
+----------------------------
+<html>
+<head>
+<title></title> style,link,script,noscript,meta etc.
+</head>
+<body>
+</body>
+</html>
+---------------------------------------------
+<font>
+</font>
+-----------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY FIRST WEBSITE</title>
+</head>
+<body>
+    <table border="1" width="100%">
+        <tr>
+            <th><img src="logo/flag.gif" width="60px" height="50px"/> </th>
+            <th bgcolor="black" align="center"> <font color="white" size="18px" face="comic sans ms">  AMAZON  </font> </th>
+            <th><img src="logo/flag.gif" width="60px" height="50px"/> </th>
+        </tr>
+    </table>
+    <table border="1" width="100%">
+        <tr>
+            <th><a href="#">HOME</a></th>
+            <th><a href="#">SERVICES</a></th>
+            <th><a href="#">GALLERY</a></th>
+            <th><a href="#">ABOUT</a></th>
+            <th><a href="#">CONTACT</a></th>
+            <th><a href="register.html" target="_blank">REGISTER</a></th>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>
+                <img src="logo/slider.jpg" height="300px" width="100%"/>
+            </th>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis perferendis facilis expedita officiis nam provident fuga, quis ratione? Est sint eos fugit distinctio voluptatibus neque laborum, aspernatur saepe minus eveniet non, aliquam necessitatibus libero. Vero recusandae autem rem quae! A quae voluptates ipsam itaque architecto repellat, animi unde dolor perspiciatis blanditiis omnis velit perferendis, odio asperiores, adipisci soluta temporibus officiis ipsum. Eos deleniti unde, blanditiis quaerat quis accusantium perferendis nostrum deserunt beatae consectetur, excepturi quisquam culpa suscipit ab aliquid libero minus dignissimos corporis quae minima. Obcaecati eius magnam neque veritatis quas, eveniet nisi. Dolore, nesciunt ducimus quasi debitis praesentium veritatis nemo blanditiis cupiditate accusantium ex laborum, sed nam vel magni numquam dolores? Laborum esse saepe sed hic exercitationem voluptas quos veritatis maiores ducimus ex alias placeat fuga omnis, quas doloribus eligendi quis tenetur aliquid. Temporibus, praesentium a officiis corporis animi est necessitatibus quo officia aliquam cumque iusto at fugit voluptatem quas nulla? Mollitia eum impedit, nam dignissimos consequuntur debitis laboriosam laudantium quos quas aut exercitationem vel, ipsa optio saepe, eligendi dicta ad voluptatibus minus porro ullam excepturi facere. Optio, voluptatibus! Cum libero expedita deleniti aspernatur amet laudantium! Iusto dignissimos earum est molestiae nesciunt, sit ipsa enim voluptatibus non alias voluptates perspiciatis at facere aspernatur numquam eos pariatur quam assumenda accusantium modi culpa? Omnis minus quam impedit dolore eveniet illo tempora, sequi exercitationem libero cum, pariatur ratione obcaecati accusamus officia inventore corrupti fugiat? Ad dolorum magni nulla expedita et ex eos asperiores, rem quisquam optio, ullam autem voluptates quibusdam? Adipisci deleniti aspernatur quaerat pariatur ullam, in cupiditate asperiores officia consequuntur id ut dolore, animi dicta quia incidunt natus sapiente vel est excepturi inventore voluptas nobis repellendus voluptate. Atque deleniti veniam quibusdam quidem itaque nesciunt, porro enim incidunt animi! Qui vitae iusto iste unde, excepturi asperiores! Officia exercitationem iusto id sint culpa impedit ea facere placeat voluptatibus deleniti assumenda pariatur labore numquam aliquam nemo adipisci consectetur tempore consequuntur illum repellat libero dolorum, temporibus animi. Ratione repellendus dolores eligendi illum officiis iusto enim laudantium pariatur, ipsam distinctio doloremque, consectetur fugit quia eum impedit necessitatibus iure, placeat ex inventore! Animi consectetur quis dolorem. Sequi nemo voluptate quo ab aspernatur quas obcaecati officia aliquid id commodi, laudantium repellat cumque praesentium maiores aut, nesciunt possimus cupiditate numquam harum saepe vel odit ex, dolorum consequatur. Dicta, quam velit distinctio odio doloribus illo autem? Nihil officiis accusantium explicabo aliquid dolores voluptatem et accusamus quis laborum rem. Excepturi, maxime.
+            </th>
+        </tr>
+    </table>
+    <table border="1" width="100%" bgcolor="black">
+        
+        <tr>
+            <th><font color="white">&copy; 2023 All Right Reserved </font> </th>
+            <th> <font color="white"> Developed By:Nitin Sharma</font></th>
+            <th><font color="white"> 
+
+                <a href="http://www.facebook.com" target="_blank" title="facebook">    <img src="logo/facebook.png" width="50px" height="50px"/></a>
+                 <a href="http://www.twitter.com" target="_blank"  title="twitter">   <img src="logo/twitter.png" width="50px" height="50px"/></a>
+                  <a href="http://www.youtube.com" target="_blank" title="youtube">  <img src="logo/youtube.png" width="50px" height="50px"/></a>
+
+            </font> </th>
+        </tr>
+    
+    </table>
+</body>
+</html>
+--------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+</head>
+<h1 align="center">Registration Form</h1>
+<body bgcolor="powderblue">
+    <form>
+        <table border="3" width="60%" bgcolor="cyan" align="center">
+            <tr>
+                <td>First Name</td>
+                <td><input type="text" placeholder="First Name"/> </td>
+            </tr>
+            <tr>
+                <td>Last Name</td>
+                <td><input type="text" placeholder="Last Name"/> </td>
+            </tr>
+            <tr>
+                <td>Mobile Number</td>
+                <td><input type="number" placeholder="Email Address"/> </td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td><input type="password" placeholder="New Password"/> </td>
+            </tr>
+            <tr>
+                <td>DOB</td>
+                <td><input type="date" placeholder="First Name"/> </td>
+            </tr>
+            <tr>
+                <td>Gender</td>
+                <td>
+                    <input type="radio" name="gen"/> Male
+                    <input type="radio" name="gen"/> Female
+                 </td>
+            </tr>
+            <tr>
+                <td align="center" colspan="2"> 
+                    <button>Sign Up</button>
+                </td>
+            </tr>
+            <tr>
+                <th colspan="2"><a href="myfirstsite.html">Back to Main Site </a> </th>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
+------------------------------------------------
+Frame:-
+---------------
+>> Frame is used to divide the content of your webpages.
+-------------------------------------------------------------------
+FrameSet:-
+----------------
+>> Frameset is a collection of Frames.
+>> Frameset doesn't use body tag.[It doesn't render body].
+>> Frameset used rows and cols attributes to divide the content of your webpages.
+----------------------------------------------------------------------------------
+Syntax:-
+---------------
+<frameset rows="" cols="">
+</frameset>
+----------------------------------------------
+How to divide the content of your Website using CSS:-
+-----------------------------------------------------------
+Here we implement one html page and one css and then we connect our css in our html page.
+-------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
